@@ -2618,7 +2618,7 @@ input[type="radio"]:focus {
   white-space: nowrap;
   text-indent: 100%;
   overflow: hidden;
-  background-image: url(../images/logo.png);
+  background-image: url(../images/bk-02.png);
   position: absolute;
   display: block;
   top: 47px;
@@ -3763,7 +3763,7 @@ input[type="radio"]:focus {
   cursor: pointer;
   z-index: 11;
   background-size: contain;
-  background-image: url(../images/menu-toggle.png);
+  background-image: url(../images/List_menu_toggle-512.webp);
 }
 
 .menu-close {
@@ -4803,8 +4803,9 @@ input[type="radio"]:focus {
   }
 
   .activity .container {
-    padding-top: 60px;
+    padding-top: 10px;
     padding-bottom: 35px;
+    height: 450px;
   }
   .activity .section-header {
     margin-bottom: 24px;
